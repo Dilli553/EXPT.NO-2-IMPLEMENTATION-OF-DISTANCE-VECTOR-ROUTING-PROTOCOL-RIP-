@@ -1,16 +1,19 @@
-# EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
+m8 i# EXPT.NO-2-IMPLEMENTATION-OF-DISTANCE-VECTOR-ROUTING-PROTOCOL-RIP
 # AIM:
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
 
-
+1.personal computer 2.cisco packet tracer
 
 # IP ASSIGNMENT:
+<img width="1600" height="1455" alt="image" src="https://github.com/user-attachments/assets/44d9b1f5-a8ee-40c4-8df6-087d07185103" />
 
 
 
 # NETWORK DIAGRAM:
+<img width="1449" height="1600" alt="image" src="https://github.com/user-attachments/assets/72f1abaa-4f86-4aef-9a60-e824ea508ed2" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -80,8 +83,9 @@ You can also check connectivity between the PCs on different networks to ensure 
  
 # OUTPUT
 
+<img width="814" height="1599" alt="image" src="https://github.com/user-attachments/assets/78749e4c-ac3a-469b-85c3-f78bb472729e" />
 
 
 # RESULT:
 
-Thus the computers in multiple networks using Distance Vector Routing <img width="576" height="365" alt="image" src="https://github.com/user-attachments/assets/f4245c26-a2f8-4621-b317-0a2c8049f764" />
+Thus the computers in multiple networks using Distance Vector Routing
